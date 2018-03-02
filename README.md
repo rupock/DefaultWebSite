@@ -1,2 +1,2 @@
 # DefaultWebsite
-This is default page on github 
+http://rupock.net
